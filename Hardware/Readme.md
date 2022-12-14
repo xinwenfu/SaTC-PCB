@@ -1,5 +1,5 @@
 
-![alt text](https://github.com/Pluto-110/SIC2_EDU/blob/main/Hardware/Hardware_pic.PNG?raw=true)
+![alt text](Hardware_pic.PNG?raw=true)
 
   Per Unit: [Full Hareware]
     4x M2 Hex Drive 8mm Screw (4 corners of the case)
