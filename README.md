@@ -1,4 +1,6 @@
 # SIC2_EDU
+
+## Version 1
 Programming &amp; Hardware guide for SIC2_EDU security IoT kit 
 
 SatC_EDU project is an ESP32 based board designed to communicate with AWS or other data servers, in this case using MQTT more securely. On-board is an ATECC608 Crypto authentication chip that provides a means for IoT to communcate more securely.
@@ -14,3 +16,6 @@ Front Face of PCB
 
 ![alt text](pics/PCB_back.JPG?raw=true)
 Back Face of PCB
+
+## Version 2
+Version 2 of the PCB is available at [Amazon](https://www.amazon.com/dp/B0C24FJBG9)
