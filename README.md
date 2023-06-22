@@ -18,7 +18,7 @@ Front Face of PCB
 Back Face of PCB
 
 ## Version 2
-Version 2 of the PCB is available at [Amazon](https://www.amazon.com/dp/B0C24FJBG9)
+<!-- Version 2 of the PCB is available at [Amazon](https://www.amazon.com/dp/B0C24FJBG9) -->
 
 ![alt text](pics/V2-Front.jpg?raw=true)
 Front Face of PCB
